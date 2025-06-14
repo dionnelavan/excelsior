@@ -52,7 +52,7 @@ a {
 }
 
 .btn-outline {
-    background: transparent;
+    background: white;
     border: 2px solid var(--accent);
     color: var(--accent);
 }
